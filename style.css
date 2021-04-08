@@ -1,0 +1,64 @@
+body {
+	background: #FF1EAD;
+}
+
+h1 {
+	font-family: 'Train One', cursive;
+	font-size: 45px;
+}
+
+h2 {
+	font-family: 'RocknRoll One', sans-serif;
+}
+
+p {
+	font-family: 'Barlow Condensed', sans-serif; 
+	font-size: 20px;
+}
+
+span {
+	font-family: 'Barlow Condensed', sans-serif;
+	font-size: 18px;
+}
+.genreTag {
+  padding:4px 8px;
+  border: 1px solid black;
+  margin: 4px;
+}
+
+.songContainer{
+  padding:16px 24px;
+  border:1px solid black;
+  margin:8px;
+  background: #FFFF;
+}
+
+#pop {
+	border:1px solid black;
+	padding: 2px 2px;
+	background: #A6D7FF;
+}
+
+#alt {
+	border:1px solid black;
+	padding: 2px 2px;
+	background: #DFA6FF;
+}
+
+#altRock {
+	border:1px solid black;
+	padding: 2px 2px;
+	background: #FFA6D4;
+}
+
+#classical {
+	border:1px solid black;
+	padding: 2px 2px;
+	background: #A7FFA6;
+}
+
+#resetFilters {
+	border:1px solid black;
+	padding: 2px 2px;
+	background: #929292;
+}
